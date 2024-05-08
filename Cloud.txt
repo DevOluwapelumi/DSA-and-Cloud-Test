@@ -1,11 +1,27 @@
-Hosting Platforms
-1. Github Pages
-2. Vercel
-3. Q-Server
-4. Netlify
-5. Heroku  
-6. Hostinger
-7. Firebase Hosting
-8. Render
-9. Bluehost
-10.Namecheap
+1. Hosting Platforms
+
+i.  Github Pages
+ii. Vercel
+iii.    Q-Server
+iv. Netlify
+v.  Heroku  
+vi. Hostinger
+vii.    Firebase Hosting
+viii.   Render
+ix. Bluehost
+x.  Namecheap
+
+
+2. Steps To be Taken to deploy a Vite + React Application on CPanel
+
+i.  Build your React application
+ii. Run npm run build in your project directory. 
+iii.    Compress your build files by creating a zip file containing all the files and folders inside the dist directory. This zip file will be uploaded to the CPanel account.
+iv. Access cPanel by logging in to your CPanel account provided by your hosting provider.
+
+v.  Upload the zip file by navigating to the "File Manager" in CPanel and upload the zip file containing your build files.
+Vi. After the file been uploaded, Extract the files by selecting the uploaded zip file and click on the "Extract" button in the file manager to extract the contents into a directory (e.g., public_html).
+vii.    Wait some seconds to be deployed
+viii.   Test the deployed application by visiting your domain in a web browser to ensure that your application is working correctly, example librarian.edu.ng
+
+
