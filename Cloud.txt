@@ -1,0 +1,11 @@
+Hosting Platforms
+1. Github Pages
+2. Vercel
+3. Q-Server
+4. Netlify
+5. Heroku  
+6. Hostinger
+7. Firebase Hosting
+8. Render
+9. Bluehost
+10.Namecheap
